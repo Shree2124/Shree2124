@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Chat Application]([chatter-hub.vercel.app](https://github.com/Shree2124/ChatterHub))
 
-- 🌱 I’m currently learning **Optimization**
+- 🌱 I’m currently working on **Optimization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shree2124](https://github.com/Shree2124)
 
