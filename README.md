@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shree2124" alt="shree2124" /></a> </p>
 
-- 🔭 I’m currently working on [Chat Application]([chatter-hub.vercel.app](https://github.com/Shree2124/ChatterHub))
-
 - 🌱 I’m currently working on **Optimization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shree2124](https://github.com/Shree2124)
