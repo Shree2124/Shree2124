@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shreealasande@gmail.com**
 
-- My Portfolio [Portfolio](https://shree-portfolio-xi.vercel.app/)
+- My Portfolio [Portfolio](https://shree-a-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
