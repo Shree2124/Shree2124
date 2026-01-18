@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shree Alasande</h1>
-<h3 align="center">Full Stack Web Developer | MERN • Django • AI-Driven Applications</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shree2124&label=Profile%20Views&color=0e75b6&style=flat" alt="shree2124" />
